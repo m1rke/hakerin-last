@@ -1,0 +1,29 @@
+{
+  "name": "hakerin",
+  "version": "1.0.0",
+  "description": "Hakerin social network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1rke/hakerin-last.git"
+  },
+  "keywords": [
+    "hakerin",
+    "social",
+    "network",
+    "for",
+    "hackers"
+  ],
+  "author": "Mirnes Mirke Halilovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1rke/hakerin-last/issues"
+  },
+  "homepage": "https://github.com/m1rke/hakerin-last#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
